@@ -12,13 +12,13 @@
 
 <div class="music-player">
 
-<img src="last.jpg" class="cover">
+<img src="last.jpeg" class="cover">
 
 <h2>Last Forever</h2>
 <h3>LANY</h3>
 
 <audio id="song">
-<source src="lastforever.mp3" type="audio/mpeg">
+<source src="LANY-Last Forever .mp3" type="audio/mpeg">
 </audio>
 
 <input type="range" value="0" id="progress">
@@ -36,8 +36,3 @@
 </div>
 
 </div>
-
-<script src="script.js"></script>
-
-</body>
-</html>
