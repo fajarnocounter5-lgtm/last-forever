@@ -13,8 +13,8 @@
 
 <img src="last.jpeg" class="cover">
 
-<h2>Last Forever</h2>
-<h3>LANY</h3>
+<h2>Last Forever With You</h2>
+<h3>Joon</h3>
           
 
 <audio id="song">
