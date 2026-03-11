@@ -18,7 +18,7 @@
 <h3>LANY</h3>
 
 <audio id="song">
-<source src="LANY-Last Forever.mp3" type="audio/mpeg">
+<source src="last forever.mp3" type="audio/mpeg">
 </audio>
 
 <input type="range" value="0" id="progress">
