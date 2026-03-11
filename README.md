@@ -15,6 +15,8 @@
 
 <h2>Last Forever</h2>
 <h3>LANY</h3>
+          
+div class="lyrics" id="lyrics"></div>
 
 <audio id="song">
 <source src="last forever.mp3" type="audio/mpeg">
