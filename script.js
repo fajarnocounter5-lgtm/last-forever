@@ -63,17 +63,29 @@ const lyrics = [
   { time: 55, text: "Oh I just wanna be there when you're driving ninety nine" },
   { time: 60, text: "The way I catch a glimpse of us is only when we lie" },
   { time: 65, text: "I guess I'll just miss somebody" },
+  { time: 70, text: "We don't need somebody else" },
+  { time: 72, text: "I just shouldn't ask you for help" },
 
   { time: 75, text: "I can't tell if you're flirting or you're tryna piss me off" },
   { time: 80, text: "We're kissing in my brother's room but something feels so wrong" },
   { time: 85, text: "Maybe cause the laughing's gone" },
+  { time: 90, text: "We can't even sing our songs but you only know" },
 
   { time: 95, text: "Cause I just want to say that it's all right and" },
   { time: 100, text: "Let me hold you close" },
+  { time: 105, text: "But I'm carrying this discipline" },
+  { time: 109, text: "I'm moving to the coast" },
+  { time: 113, text: "So it's better when you tell me things" },
+  { time: 117, text: "Like I should go alone" },
 
   { time: 120, text: "Oh I just wanna be there when I'm driving ninety nine" },
   { time: 125, text: "The way I catch a glimpse of us is only when we lie" },
+  { time: 130, text: "I guess I'll just miss somebody" },
+  { time: 135, text: "We don't need somebody else" },
+  { time: 140, text: "I just shouldn't ask you for help" },
 
+  { time: 155, text: "Oh I just wanna see the way we're leaving it to go" },
   { time: 160, text: "Oh baby baby baby is there something I should know" },
-  { time: 170, text: "And I guess I'm never getting well" }
+  { time: 170, text: "And I guess I'm never getting well" },
+  { time: 175, text: "But I could never ask you for help" }
 ];
